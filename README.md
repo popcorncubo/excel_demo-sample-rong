@@ -1,3 +1,100 @@
+# Excel Inventory Manager
+
+Upload Excel files and instantly manage products, inventory, stock records, and reports directly in your browser.
+
+一個基於瀏覽器運作的 Excel 商品／庫存管理工具。
+使用者只需要上傳 Excel，即可快速查看商品資料、庫存狀態、低庫存提醒與基本統計報表。
+
+Tech Stack
+
+Frontend
+
+HTML5
+
+CSS3
+
+JavaScript
+
+Excel Processing
+
+SheetJS / XLSX
+
+Data Storage
+
+LocalStorage
+
+Database
+
+無後端資料庫
+
+所有資料預設儲存在使用者瀏覽器本機
+
+Excel 檔案不會上傳至伺服器
+
+Features
+
+Excel 商品資料匯入
+
+商品搜尋與篩選
+
+庫存數量統計
+
+低庫存提醒
+
+入庫／出庫紀錄
+
+商品分類統計
+
+Excel 報表匯出
+
+管理者／檢視者模式
+
+本機資料保存
+
+Responsive Web Design
+
+Custom Development
+
+此專案為基礎展示版。
+
+如有以下需求，可聯絡進行客製開發：
+
+POS 系統
+
+ERP 系統
+
+SQL 資料庫
+
+MySQL / PostgreSQL
+
+PHP / C# 後端
+
+REST API
+
+多人帳號與權限
+
+雲端資料同步
+
+多倉庫管理
+
+金流串接
+
+AI 智能客服
+
+WordPress 系統
+
+自動化報表
+
+公司內部管理系統
+
+Contact
+
+For custom development or business inquiries:
+
+Email: chinsun1345@gmail.com
+
+This project is intended as a lightweight frontend demo and starting point for customized business systems.
+
 # StockLite — Excel 庫存管理 Demo
 
 這是一套可直接放到 **GitHub Pages** 的純前端展示模板。
