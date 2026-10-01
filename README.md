@@ -110,3 +110,12 @@ For custom development or business inquiries:
 ## License
 
 This project is currently provided for demonstration and portfolio purposes.
+
+---
+
+## 名稱聲明
+
+本專案為個人獨立開發之作品集／Demo 專案，
+與其他使用「StockLite」名稱之產品、公司或開發者無任何關聯、合作或授權關係。
+
+「StockLite」目前僅作為暫時性的專案名稱使用。
