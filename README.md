@@ -149,8 +149,7 @@ const CONFIG = {
 `商品編號 | 商品名稱 | 類別 | 售價 | 成本 | 庫存 | 安全庫存 | 供應商`
 
 可直接使用附帶的 `excel-inventory-demo-sample.xlsx` 測試。
-
-## 下一階段可客製
+## 可客製
 
 - 真正登入 / RBAC 權限
 - MySQL / PostgreSQL / SQL Server
