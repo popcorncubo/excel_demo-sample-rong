@@ -7,7 +7,7 @@ StockLite 是一套輕量化的 Excel 商品／庫存管理 Demo。
 使用者只需要上傳 `.xlsx` 或 `.xls` 檔案，即可在瀏覽器中快速查看商品資料、搜尋庫存、檢查低庫存商品，以及產生基本報表。
 
 目前版本主要作為 GitHub Pages 展示與基礎商業系統 Demo 使用。
-
+<img width="1130" height="912" alt="excel-title" src="https://github.com/user-attachments/assets/44b8a9a7-4d38-467a-9fa0-960bfbd8e1f0" />
 ---
 
 ## Features
